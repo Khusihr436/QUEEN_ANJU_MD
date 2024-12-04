@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "917701952590",
+  "BOT_NUMBER": "48459237348",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -24,4 +24,5 @@ module.exports = {
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷"
-};
+   },
+  
